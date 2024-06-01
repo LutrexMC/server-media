@@ -18,13 +18,13 @@
       "name": "CityBuild",
       "command": "/server citybuild"
     },
-    "coinchest": {
-      "name": "Cointruhe",
-      "command": "/warp cointruhe"
+    "wildsmp": {
+      "name": "WildSMP",
+      "command": "/server smp"
     },
-    "cookieclicker": {
-      "name": "Cookie Clicker",
-      "command": "/warp cookieclicker"
+    "islands": {
+      "name": "Islands",
+      "command": "/server islands"
     }
   },
   "discord": {
